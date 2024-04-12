@@ -1,0 +1,26 @@
+.all{
+    border: 2px solid black;
+    
+    position: relative;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: fit-content;
+    padding: 3px;
+}
+.mainbody{
+    top: 164px;
+    left: 5px;
+    right: 5px;
+    height: fit-content;
+
+}
+.footer{
+    position: static;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+ 
